@@ -254,3 +254,8 @@ form .button {
   color: var(--color-text);
   font-size: 0.9rem;
 }
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
