@@ -28,7 +28,7 @@
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Monaco', 'Lucida Console', 'Courier New', monospace, Helvetica, sans-serif, Arial;
   color: var(--color-text);
   background-color: var(--color-bg);
   line-height: 1.6;
@@ -250,7 +250,7 @@ form .button {
 .site-footer {
   text-align: center;
   padding: 24px 0;
-  border-top: 1px solid var(--color-border);
+  border-top: 4px solid var(--color-border);
   color: var(--color-text);
   font-size: 0.9rem;
 }
